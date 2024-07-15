@@ -3,13 +3,13 @@
     "type": "library",
     "description": "Official Laravel package for Paragraph - a more productive way to manage your texts",
     "keywords": ["texts","templates","localization"],
-    "homepage": "https://github.com/ParagraphApp/laravel",
+    "homepage": "https://github.com/r0aringthunder/r0pl",
     "license": "MIT",
     "authors": [
         {
-            "name": "Denis Mysenko",
-            "email": "denis@paragraph.ph",
-            "homepage": "https://paragraph.ph"
+            "name": "Will Mercer",
+            "email": "me@wdmvii.com",
+            "homepage": "https://wdmvii.com"
         }
     ],
     "require": {
